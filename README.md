@@ -8,7 +8,7 @@
 
 ## Estudio de Caso
 
-Un cliente está solicitando un sitio de blog con al menos 3 páginas hechas únicamente con material gratuito. Podemos elegir cualquier tema para el sitio, siempre y cuando sea apto para familias. Estos son algunos de los posibles temas que el sitio del blog podría cubrir (elija 1 de estos):
+Un cliente solicita el desarrollo de un sitio web tipo blog con mínimo 3 páginas, utilizando únicamente material gratuito y con contenido apto para todo público. El tema seleccionado para el proyecto es **Deportes**.
 
 * Deportes
 * Música
@@ -17,19 +17,20 @@ Un cliente está solicitando un sitio de blog con al menos 3 páginas hechas ún
 
 ## Nombre del Proyecto
 
-MundoSport
+**SportsWorld**
 
 ## Perfil del Proyecto
 
-Un Blog de deportes y ejercicios para todo público
+SportsWorld es un blog de deportes y ejercicios dirigido a todo público. Su propósito es brindar información sobre diferentes deportes, actividades físicas y hábitos saludables que puedan ser practicados por personas de diferentes edades.
 
 ## Definición de los proyectos y sus necesidades
 
-Desarrollar un blog deportivo funcional que permita a los usuarios consultar información actualizada sobre deportes y participar activamente compartiendo sus experiencias en foros de discusión.
+Desarrollar un blog deportivo funcional y fácil de utilizar, donde los usuarios puedan consultar información sobre diferentes deportes, conocer actividades físicas y compartir sus experiencias y opiniones a través de un foro de discusión.
 
 ## Metas y Objetivos del Proyecto
 
-* Publicar contenido relevante sobre actividad física, ejercicios y hábitos para una vida equilibrada
-* Crear una comunidad activa a través del foro de debate
-* Ofrecer una experiencia de usuario (UX) ágil, sencilla y visualmente atractiva
-* Alcanzar un tráfico mínimo de 100 visualizaciones mensuales
+* Publicar contenido relevante sobre deportes, actividad física, ejercicios y hábitos saludables.
+* Promover la práctica deportiva y la actividad física en personas de diferentes edades.
+* Crear una comunidad activa mediante un foro donde los usuarios puedan compartir experiencias y opiniones.
+* Ofrecer una experiencia de usuario (UX) sencilla, clara, ágil y visualmente atractiva.
+* Alcanzar un tráfico mínimo de 100 visualizaciones mensuales.
